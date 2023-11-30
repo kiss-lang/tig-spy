@@ -1,5 +1,5 @@
 bin/
-externLog.txt
-*.memoized
-.temp/
-*.pyc
+libs/
+node_modules/
+*.zip
+externs/
