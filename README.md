@@ -1,13 +1,11 @@
-# Kiss
+# tig-spy
 
-*A type-safe, compiled Lisp for Haxe programs*
+Scrape thread view and reply analytics from TIGSource Forum threads.
 
-[README](kiss/README.md)
+## Build:
 
-## Monorepo
-
-This repo contains subtrees for every project in the kiss-lang organization.
-
-All contributions should be made through this repo.
-
-All CI is handled through this repo.
+```
+npm install -g lix
+lix download
+./test.sh
+```
